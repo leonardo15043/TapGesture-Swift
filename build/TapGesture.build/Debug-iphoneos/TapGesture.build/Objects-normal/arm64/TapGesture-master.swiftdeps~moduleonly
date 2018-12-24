@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
 options: "278070460402ef415485e8269c568171"
-build_time: [1545692448, 538143000]
+build_time: [1545693506, 994720000]
 inputs:
-  "/Users/leonardo15043/Documents/GitHub/TapGesture/TapGesture/ViewController.swift": [1545692448, 0]
+  "/Users/leonardo15043/Documents/GitHub/TapGesture/TapGesture/ViewController.swift": [1545693506, 0]
   "/Users/leonardo15043/Documents/GitHub/TapGesture/TapGesture/AppDelegate.swift": [1545690474, 0]

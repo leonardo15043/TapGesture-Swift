@@ -12,6 +12,7 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var imageView: UIImageView!
     var animator:UIDynamicAnimator!
+    var snapBehaviour:UISnapBehavior!
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -26,6 +27,15 @@ class ViewController: UIViewController {
     }
     
     @objc func userTap(tap:UITapGestureRecognizer){
+        
+        let touchPoint = tap.location(in: self.view)
+        if snapBehaviour != nil {
+            animator.removeBehavior(snapBehaviour)
+        }
+        
+        snapBehaviour = UISnapBehavior(item: imageView, snapTo: touchPoint)
+        snapBehaviour.damping = 0.3
+        animator.addBehavior(snapBehaviour)
        
     }
 

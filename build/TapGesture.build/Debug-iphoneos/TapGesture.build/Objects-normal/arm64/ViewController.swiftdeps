@@ -1,0 +1,453 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "10TapGesture14ViewControllerC"
+provides-member:
+- ["10TapGesture14ViewControllerC", ""]
+provides-dynamic-lookup:
+- "imageView"
+- "userTap"
+- "viewDidLoad"
+depends-top-level:
+- !private "!="
+- "AssignmentPrecedence"
+- !private "FloatLiteralType"
+- "UIDynamicAnimator"
+- "UIImageView"
+- "UISnapBehavior"
+- "UITapGestureRecognizer"
+- "UIViewController"
+- "ViewController"
+depends-member:
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "addGestureRecognizer"]
+- !private ["s7CVarArgP", "UIDynamicAnimator"]
+- !private ["s7CVarArgP", "UISnapBehavior"]
+- !private ["s7CVarArgP", "UITapGestureRecognizer"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "addBehavior"]
+- !private ["s7CVarArgP", "addGestureRecognizer"]
+- !private ["s7CVarArgP", "animator"]
+- !private ["s7CVarArgP", "damping"]
+- !private ["s7CVarArgP", "imageView"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "location"]
+- !private ["s7CVarArgP", "removeBehavior"]
+- !private ["s7CVarArgP", "snapBehaviour"]
+- !private ["s7CVarArgP", "userTap"]
+- !private ["s7CVarArgP", "view"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["s28CustomDebugStringConvertibleP", "UIDynamicAnimator"]
+- !private ["s28CustomDebugStringConvertibleP", "UISnapBehavior"]
+- !private ["s28CustomDebugStringConvertibleP", "UITapGestureRecognizer"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "addBehavior"]
+- !private ["s28CustomDebugStringConvertibleP", "addGestureRecognizer"]
+- !private ["s28CustomDebugStringConvertibleP", "animator"]
+- !private ["s28CustomDebugStringConvertibleP", "damping"]
+- !private ["s28CustomDebugStringConvertibleP", "imageView"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "location"]
+- !private ["s28CustomDebugStringConvertibleP", "removeBehavior"]
+- !private ["s28CustomDebugStringConvertibleP", "snapBehaviour"]
+- !private ["s28CustomDebugStringConvertibleP", "userTap"]
+- !private ["s28CustomDebugStringConvertibleP", "view"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "addBehavior"]
+- !private ["s17CustomReflectableP", "addGestureRecognizer"]
+- !private ["s17CustomReflectableP", "damping"]
+- !private ["s17CustomReflectableP", "removeBehavior"]
+- !private ["s23CustomStringConvertibleP", "UIDynamicAnimator"]
+- !private ["s23CustomStringConvertibleP", "UISnapBehavior"]
+- !private ["s23CustomStringConvertibleP", "UITapGestureRecognizer"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "addBehavior"]
+- !private ["s23CustomStringConvertibleP", "addGestureRecognizer"]
+- !private ["s23CustomStringConvertibleP", "animator"]
+- !private ["s23CustomStringConvertibleP", "damping"]
+- !private ["s23CustomStringConvertibleP", "imageView"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "location"]
+- !private ["s23CustomStringConvertibleP", "removeBehavior"]
+- !private ["s23CustomStringConvertibleP", "snapBehaviour"]
+- !private ["s23CustomStringConvertibleP", "userTap"]
+- !private ["s23CustomStringConvertibleP", "view"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "addBehavior"]
+- !private ["Se", "addGestureRecognizer"]
+- !private ["Se", "damping"]
+- !private ["Se", "removeBehavior"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "addBehavior"]
+- !private ["SE", "addGestureRecognizer"]
+- !private ["SE", "damping"]
+- !private ["SE", "removeBehavior"]
+- !private ["SQ", "UIDynamicAnimator"]
+- !private ["SQ", "UISnapBehavior"]
+- !private ["SQ", "UITapGestureRecognizer"]
+- ["SQ", ""]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "addBehavior"]
+- !private ["SQ", "addGestureRecognizer"]
+- !private ["SQ", "animator"]
+- !private ["SQ", "damping"]
+- !private ["SQ", "imageView"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "location"]
+- !private ["SQ", "removeBehavior"]
+- !private ["SQ", "snapBehaviour"]
+- !private ["SQ", "userTap"]
+- !private ["SQ", "view"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s23ExpressibleByNilLiteralP", "addBehavior"]
+- !private ["s23ExpressibleByNilLiteralP", "addGestureRecognizer"]
+- !private ["s23ExpressibleByNilLiteralP", "damping"]
+- !private ["s23ExpressibleByNilLiteralP", "removeBehavior"]
+- !private ["SH", "UIDynamicAnimator"]
+- !private ["SH", "UISnapBehavior"]
+- !private ["SH", "UITapGestureRecognizer"]
+- ["SH", ""]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "addBehavior"]
+- !private ["SH", "addGestureRecognizer"]
+- !private ["SH", "animator"]
+- !private ["SH", "damping"]
+- !private ["SH", "imageView"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "location"]
+- !private ["SH", "removeBehavior"]
+- !private ["SH", "snapBehaviour"]
+- !private ["SH", "userTap"]
+- !private ["SH", "view"]
+- !private ["SH", "viewDidLoad"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["So8NSCodingP", "UIDynamicAnimator"]
+- !private ["So8NSCodingP", "UISnapBehavior"]
+- !private ["So8NSCodingP", "UITapGestureRecognizer"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "addGestureRecognizer"]
+- !private ["So8NSCodingP", "animator"]
+- !private ["So8NSCodingP", "imageView"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "snapBehaviour"]
+- !private ["So8NSCodingP", "userTap"]
+- !private ["So8NSCodingP", "view"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "UIDynamicAnimator"]
+- !private ["So26NSExtensionRequestHandlingP", "UISnapBehavior"]
+- !private ["So26NSExtensionRequestHandlingP", "UITapGestureRecognizer"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "animator"]
+- !private ["So26NSExtensionRequestHandlingP", "imageView"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "snapBehaviour"]
+- !private ["So26NSExtensionRequestHandlingP", "userTap"]
+- !private ["So26NSExtensionRequestHandlingP", "view"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So8NSObjectC", "UIDynamicAnimator"]
+- ["So8NSObjectC", "UIImageView"]
+- ["So8NSObjectC", "UISnapBehavior"]
+- ["So8NSObjectC", "UITapGestureRecognizer"]
+- !private ["So8NSObjectC", "addBehavior"]
+- !private ["So8NSObjectC", "addGestureRecognizer"]
+- ["So8NSObjectC", "animator"]
+- !private ["So8NSObjectC", "damping"]
+- ["So8NSObjectC", "imageView"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "location"]
+- !private ["So8NSObjectC", "removeBehavior"]
+- ["So8NSObjectC", "snapBehaviour"]
+- ["So8NSObjectC", "userTap"]
+- !private ["So8NSObjectC", "view"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "UIDynamicAnimator"]
+- !private ["So8NSObjectP", "UISnapBehavior"]
+- !private ["So8NSObjectP", "UITapGestureRecognizer"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "addBehavior"]
+- !private ["So8NSObjectP", "addGestureRecognizer"]
+- !private ["So8NSObjectP", "animator"]
+- !private ["So8NSObjectP", "damping"]
+- !private ["So8NSObjectP", "imageView"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "location"]
+- !private ["So8NSObjectP", "removeBehavior"]
+- !private ["So8NSObjectP", "snapBehaviour"]
+- !private ["So8NSObjectP", "userTap"]
+- !private ["So8NSObjectP", "view"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["Sq", "addBehavior"]
+- !private ["Sq", "addGestureRecognizer"]
+- !private ["Sq", "damping"]
+- !private ["Sq", "removeBehavior"]
+- !private ["So29UIAccessibilityIdentificationP", "addGestureRecognizer"]
+- !private ["So12UIAppearanceP", "addGestureRecognizer"]
+- !private ["So21UIAppearanceContainerP", "UIDynamicAnimator"]
+- !private ["So21UIAppearanceContainerP", "UISnapBehavior"]
+- !private ["So21UIAppearanceContainerP", "UITapGestureRecognizer"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "addGestureRecognizer"]
+- !private ["So21UIAppearanceContainerP", "animator"]
+- !private ["So21UIAppearanceContainerP", "imageView"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "snapBehaviour"]
+- !private ["So21UIAppearanceContainerP", "userTap"]
+- !private ["So21UIAppearanceContainerP", "view"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "UIDynamicAnimator"]
+- !private ["So18UIContentContainerP", "UISnapBehavior"]
+- !private ["So18UIContentContainerP", "UITapGestureRecognizer"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "animator"]
+- !private ["So18UIContentContainerP", "imageView"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "snapBehaviour"]
+- !private ["So18UIContentContainerP", "userTap"]
+- !private ["So18UIContentContainerP", "view"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So17UICoordinateSpaceP", "addGestureRecognizer"]
+- !private ["So17UIDynamicAnimatorC", "addBehavior"]
+- !private ["So17UIDynamicAnimatorC", "init"]
+- !private ["So17UIDynamicAnimatorC", "removeBehavior"]
+- !private ["So17UIDynamicBehaviorC", "damping"]
+- !private ["So17UIDynamicBehaviorC", "init"]
+- !private ["So13UIDynamicItemP", "addGestureRecognizer"]
+- !private ["So18UIFocusEnvironmentP", "UIDynamicAnimator"]
+- !private ["So18UIFocusEnvironmentP", "UISnapBehavior"]
+- !private ["So18UIFocusEnvironmentP", "UITapGestureRecognizer"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "addGestureRecognizer"]
+- !private ["So18UIFocusEnvironmentP", "animator"]
+- !private ["So18UIFocusEnvironmentP", "imageView"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "snapBehaviour"]
+- !private ["So18UIFocusEnvironmentP", "userTap"]
+- !private ["So18UIFocusEnvironmentP", "view"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "addGestureRecognizer"]
+- !private ["So20UIFocusItemContainerP", "addGestureRecognizer"]
+- !private ["So19UIGestureRecognizerC", "init"]
+- !private ["So19UIGestureRecognizerC", "location"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIDynamicAnimator"]
+- !private ["So30UIPasteConfigurationSupportingP", "UISnapBehavior"]
+- !private ["So30UIPasteConfigurationSupportingP", "UITapGestureRecognizer"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "addGestureRecognizer"]
+- !private ["So30UIPasteConfigurationSupportingP", "animator"]
+- !private ["So30UIPasteConfigurationSupportingP", "imageView"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "snapBehaviour"]
+- !private ["So30UIPasteConfigurationSupportingP", "userTap"]
+- !private ["So30UIPasteConfigurationSupportingP", "view"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So11UIResponderC", "UIDynamicAnimator"]
+- ["So11UIResponderC", "UIImageView"]
+- ["So11UIResponderC", "UISnapBehavior"]
+- ["So11UIResponderC", "UITapGestureRecognizer"]
+- !private ["So11UIResponderC", "addGestureRecognizer"]
+- ["So11UIResponderC", "animator"]
+- ["So11UIResponderC", "imageView"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "snapBehaviour"]
+- ["So11UIResponderC", "userTap"]
+- !private ["So11UIResponderC", "view"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "UIDynamicAnimator"]
+- !private ["So30UIResponderStandardEditActionsP", "UISnapBehavior"]
+- !private ["So30UIResponderStandardEditActionsP", "UITapGestureRecognizer"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "addGestureRecognizer"]
+- !private ["So30UIResponderStandardEditActionsP", "animator"]
+- !private ["So30UIResponderStandardEditActionsP", "imageView"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "snapBehaviour"]
+- !private ["So30UIResponderStandardEditActionsP", "userTap"]
+- !private ["So30UIResponderStandardEditActionsP", "view"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So14UISnapBehaviorC", "damping"]
+- !private ["So14UISnapBehaviorC", "init"]
+- !private ["So16UIStateRestoringP", "UIDynamicAnimator"]
+- !private ["So16UIStateRestoringP", "UISnapBehavior"]
+- !private ["So16UIStateRestoringP", "UITapGestureRecognizer"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "animator"]
+- !private ["So16UIStateRestoringP", "imageView"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "snapBehaviour"]
+- !private ["So16UIStateRestoringP", "userTap"]
+- !private ["So16UIStateRestoringP", "view"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So22UITapGestureRecognizerC", "init"]
+- !private ["So22UITapGestureRecognizerC", "location"]
+- !private ["So18UITraitEnvironmentP", "UIDynamicAnimator"]
+- !private ["So18UITraitEnvironmentP", "UISnapBehavior"]
+- !private ["So18UITraitEnvironmentP", "UITapGestureRecognizer"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "addGestureRecognizer"]
+- !private ["So18UITraitEnvironmentP", "animator"]
+- !private ["So18UITraitEnvironmentP", "imageView"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "snapBehaviour"]
+- !private ["So18UITraitEnvironmentP", "userTap"]
+- !private ["So18UITraitEnvironmentP", "view"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "UIDynamicAnimator"]
+- !private ["So23UIUserActivityRestoringP", "UISnapBehavior"]
+- !private ["So23UIUserActivityRestoringP", "UITapGestureRecognizer"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "addGestureRecognizer"]
+- !private ["So23UIUserActivityRestoringP", "animator"]
+- !private ["So23UIUserActivityRestoringP", "imageView"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "snapBehaviour"]
+- !private ["So23UIUserActivityRestoringP", "userTap"]
+- !private ["So23UIUserActivityRestoringP", "view"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "addGestureRecognizer"]
+- ["So16UIViewControllerC", "UIDynamicAnimator"]
+- ["So16UIViewControllerC", "UIImageView"]
+- ["So16UIViewControllerC", "UISnapBehavior"]
+- ["So16UIViewControllerC", "UITapGestureRecognizer"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "animator"]
+- ["So16UIViewControllerC", "imageView"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "snapBehaviour"]
+- ["So16UIViewControllerC", "userTap"]
+- !private ["So16UIViewControllerC", "view"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["10TapGesture14ViewControllerC", "UIDynamicAnimator"]
+- ["10TapGesture14ViewControllerC", "UIImageView"]
+- ["10TapGesture14ViewControllerC", "UISnapBehavior"]
+- ["10TapGesture14ViewControllerC", "UITapGestureRecognizer"]
+- ["10TapGesture14ViewControllerC", "animator"]
+- ["10TapGesture14ViewControllerC", "imageView"]
+- ["10TapGesture14ViewControllerC", "init"]
+- ["10TapGesture14ViewControllerC", "snapBehaviour"]
+- ["10TapGesture14ViewControllerC", "userTap"]
+- !private ["10TapGesture14ViewControllerC", "view"]
+- ["10TapGesture14ViewControllerC", "viewDidLoad"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "addGestureRecognizer"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIDynamicAnimator"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UISnapBehavior"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UITapGestureRecognizer"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addBehavior"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addGestureRecognizer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "animator"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "damping"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "imageView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "location"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "removeBehavior"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "snapBehaviour"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "userTap"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "view"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "addBehavior"]
+- !private ["s21_ObjectiveCBridgeableP", "addGestureRecognizer"]
+- !private ["s21_ObjectiveCBridgeableP", "damping"]
+- !private ["s21_ObjectiveCBridgeableP", "removeBehavior"]
+depends-nominal:
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sq"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So17UIDynamicAnimatorC"
+- !private "So17UIDynamicBehaviorC"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So19UIGestureRecognizerC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So14UISnapBehaviorC"
+- "So16UIStateRestoringP"
+- !private "So22UITapGestureRecognizerC"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- "10TapGesture14ViewControllerC"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "d701cb725f60f5234fd56d66b54eefff"

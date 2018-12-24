@@ -10,9 +10,23 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var imageView: UIImageView!
+    var animator:UIDynamicAnimator!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
+        //creamos el gesto del tab
+        let tapGesture = UITapGestureRecognizer(target: self, action: #selector(userTap))
+        //asignamos el gesto a la vista
+        self.view.addGestureRecognizer(tapGesture)
+        
+        //creamos la animacion
+        animator = UIDynamicAnimator(referenceView: self.view)
+    }
+    
+    @objc func userTap(tap:UITapGestureRecognizer){
+       
     }
 
 

@@ -12,6 +12,7 @@
 		4963D13821D194EA009117AD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4963D13621D194EA009117AD /* Main.storyboard */; };
 		4963D13A21D194EC009117AD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4963D13921D194EC009117AD /* Assets.xcassets */; };
 		4963D13D21D194EC009117AD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4963D13B21D194EC009117AD /* LaunchScreen.storyboard */; };
+		4963D14521D19889009117AD /* face2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4963D14421D19889009117AD /* face2.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		4963D13921D194EC009117AD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4963D13C21D194EC009117AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4963D13E21D194EC009117AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4963D14421D19889009117AD /* face2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = face2.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		4963D13121D194EA009117AD /* TapGesture */ = {
 			isa = PBXGroup;
 			children = (
+				4963D14421D19889009117AD /* face2.jpg */,
 				4963D13221D194EA009117AD /* AppDelegate.swift */,
 				4963D13421D194EA009117AD /* ViewController.swift */,
 				4963D13621D194EA009117AD /* Main.storyboard */,
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4963D13D21D194EC009117AD /* LaunchScreen.storyboard in Resources */,
+				4963D14521D19889009117AD /* face2.jpg in Resources */,
 				4963D13A21D194EC009117AD /* Assets.xcassets in Resources */,
 				4963D13821D194EA009117AD /* Main.storyboard in Resources */,
 			);
